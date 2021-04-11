@@ -61,33 +61,3 @@ et refaire les deux commandes précédentes
 <li><strong>achats</strong> est une table pivot permettant de spécifier quand un utilisateur a acheté le jeu, où il est stocké et le prix d'achat.
 </li>
 </ul>
-
-### La migration
-
-
-- Les tables de la base de données vous sont données (voir le répertoire `database/migration`)
-- Les classes pour ajouter des données aléatoires sont données (voir le répertoire `database/seeders`)
-
-### Votre travail
-
-Après avoir lancé l'application, l'énoncé sera disponible à l'adresse http://localhost:8000/enonce.
-
-A partir de cette version initiale, vous devez réaliser les questions données dans le jalon 1 puis le jalon 2, jalon 3 et projet.
-
-<ol>
-<li>Le code de l'application (backend).</li>
-<li>La charte graphique + logo puis intégration (frontend)</li>
-<li>rédiger un avis sur un jeu (choisi librement)</li>
-<li>la rédaction de règles du jeu en anglais. Attention au plagiat puisque nous passerons tous les textes au
-    logiciel anti-plagiat, redoutablement efficace.
-</li>
-<li>la rédaction (en français) de vos choix relatifs au design.</li>
-<li>Pendant le projet 3 jalons (Milestone) + 1 jalon projet</li>
-
-<li><span style="font-weight: bold">date fin jalon 1 : </span>16/12 à 15h30 (des tickets simples)</li>
-<li><span style="font-weight: bold">date fin jalon 2 : </span>17/12 à 11h (plus de travail)</li>
-<li><span style="font-weight: bold">date fin jalon 3 + jalon projet :</span> 17/12 à 18h30</li>
-</ol>
-
-
-BON COURAGE !
